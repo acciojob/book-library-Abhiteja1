@@ -12,10 +12,13 @@ img{
 	display:block;
 	margin:auto;
 }
+.book{
+/* 	background-color:rgb(46, 204, 113); */
+}
 .author{
 	color:#777777;
 }
-.price{
+.book>div{
 	text-align:center;
-	background-color:#2ecc71;
+	background-color:rgb(46, 204, 113);
 }
